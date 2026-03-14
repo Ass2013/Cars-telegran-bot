@@ -1,2 +1,2 @@
-TOKEN = '8647650327:AAGjwssiOLqYXUI5anZMG2IJqwSW4Q0Nd70'
+TOKEN = ''
 DATABASE = 'cars_database.db'
